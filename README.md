@@ -1,11 +1,11 @@
-About r-km.ci
-=============
+About r-km.ci-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-km.ci-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=km.ci
 
 Package license: GPL (>= 2)
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-km.ci-feedstock/blob/main/LICENSE.txt)
 
 Summary: Computes various confidence intervals for the Kaplan-Meier estimator, namely: Petos CI, Rothman CI, CI's based on Greenwoods variance, Thomas and Grunkemeier CI and the simultaneous confidence bands by Nair and Hall and Wellner.
 
